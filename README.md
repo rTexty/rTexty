@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=1300&amp;pause=250&amp;repeat=false&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI+agents+%26+LLM+applications;Exploring+search+%26+retrieval;Making+ideas+work+end+to+end" alt="Building AI agents and LLM applications, exploring search and retrieval, and making ideas work end to end">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/focus-static.svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=1300&amp;pause=250&amp;repeat=false&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+AI+agents+%26+LLM+applications;Exploring+search+%26+retrieval;Making+ideas+work+end+to+end" alt="Building AI agents and LLM applications, exploring search and retrieval, and making ideas work end to end">
+  </picture>
 </p>
 
 <p align="center"><a href="https://t.me/rtexty">Say hello on Telegram ↗</a></p>
