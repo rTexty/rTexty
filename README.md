@@ -1,29 +1,29 @@
-<img src="assets/editorial-banner.png" alt="rTexty — AI Engineer" width="100%">
+<img src="assets/signal-hero.png" alt="rTexty — From signal to system. AI / LLM engineering." width="100%">
 
-# Hi, I'm Kamil.
+**Kamil Akhmadiev** · AI / LLM engineer · CSE student at Innopolis University
 
-I'm an AI / LLM engineer and CSE student at Innopolis University. I explore agents, information retrieval, and the backend systems that bring ideas to life.
+I explore how agents, retrieval and backend systems turn complex inputs into useful tools.
 
-<br>
+<img src="assets/signal-strip.svg" alt="Areas of focus: AI agents, retrieval, backend systems." width="100%">
 
-## Selected projects
+## Selected systems
 
-**[ktru-match](https://github.com/rTexty/ktru-match)**<br>Product-to-catalog matching with clarifying questions and CSV support.<br>[Explore the demo](https://rtexty.github.io/ktru-match/) · sample scenarios
+[<img src="assets/project-ktru.svg" alt="KTRU Match — catalog matching" width="100%">](https://github.com/rTexty/ktru-match)
 
----
+Matching product descriptions to catalog entries, with clarifying questions and CSV support.<br>[KTRU code](https://github.com/rTexty/ktru-match) · [KTRU demo](https://rtexty.github.io/ktru-match/) (sample scenarios)
 
-**[OilLine Watch](https://github.com/rTexty/oilline-watch)**<br>A 3D pipeline pressure lab and wall-thickness forecasting prototype.<br>[Explore the demo](https://rtexty.github.io/oilline-watch/?forecast=demo) · synthetic data
+[<img src="assets/project-oilline.svg" alt="OilLine Watch — pipeline lab" width="100%">](https://github.com/rTexty/oilline-watch)
 
----
+A 3D pipeline pressure lab and wall-thickness forecasting prototype.<br>[OilLine code](https://github.com/rTexty/oilline-watch) · [OilLine demo](https://rtexty.github.io/oilline-watch/?forecast=demo) (synthetic data)
 
-**[logsLinter](https://github.com/rTexty/logsLinter)**<br>Static analysis for clear, consistent Go log messages.
+[<img src="assets/project-logslinter.svg" alt="logsLinter — Go static analysis" width="100%">](https://github.com/rTexty/logsLinter)
 
-<br>
+Static analysis for clear, consistent Go log messages.<br>[logsLinter code](https://github.com/rTexty/logsLinter)
 
-## What I'm exploring
+## Tools & interests
 
-AI agents · LLM applications · information retrieval · backend engineering
+**Languages** — Python · Go · TypeScript<br>**Toolbox** — FastAPI · PostgreSQL · React<br>**Interests** — AI agents · information retrieval · applied ML
 
 ## Get in touch
 
-[Telegram](https://t.me/rtexty)
+[Telegram ↗](https://t.me/rtexty)
