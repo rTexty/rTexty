@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50" viewBox="0 0 600 50" role="img" aria-labelledby="title">
+  <title id="title">AI agents, search, backend engineering</title>
+  <style>
+    .cursor { animation: blink 0.8s steps(1, end) 5; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect width="600" height="50" rx="6" fill="#0d1117"/>
+  <text x="300" y="31" text-anchor="middle" font-family="monospace" font-size="20" fill="#9fc2ff">AI agents · search · backend engineering</text>
+  <rect class="cursor" x="548" y="15" width="8" height="21" fill="#9fc2ff"/>
+</svg>
